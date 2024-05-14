@@ -2,10 +2,11 @@
 @import "./utilidades/tipografia.css";
 @import "./global/header.css";
 @import "./global/footer.css";
+@import "./utilidades/cores.css";
 
 /*utilidades */
 @import "./utilidades/componentes.css";
-@import "./utilidades/cores.css";
+@import "./utilidades/formulario.css";
 
 /* home */
 @import "./home/introducao.css";
@@ -26,6 +27,11 @@
 @import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
+
+/* contato*/
+@import "./contato/contato.css";
+@import "./contato/jojas.css";
+
 
 /* termos*/
 @import "./termos/termos.css";
